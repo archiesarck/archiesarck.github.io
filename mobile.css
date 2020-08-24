@@ -1,0 +1,185 @@
+.aboutme1 {
+	width: 100%; text-align: justify; background-color: blue; color: white; 
+}
+.about2 {
+	width: 0%; text-align: right; background-color: blue; color: white; 
+}
+body, html {
+  	height: 100%;
+  	margin: 0;
+  	font: 300 15px/1.8 "Lato", sans-serif;
+  	color: #777;
+
+}
+
+.div1 {
+  	position: relative;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-image: url("https://drive.google.com/uc?id=1wNbMygZj_aZPiqEN4D1TY3D8EoWGovef");
+  	height: 30%;
+  	width: 100%;
+}
+
+.div2 {
+	
+	position: absolute;
+	top: 40%;
+	width: 100%;
+	text-align: center;
+	color: black;
+	-webkit-animation-name: trns;
+  	-webkit-animation-duration: 2s;
+  	-webkit-animation-delay: 4s;
+  	animation-name: trns;
+  	animation-duration: 2s;
+  	animation-delay: 4s;
+}
+.border1 {
+  	background-color: black;
+  	color: #fff;
+  	width: 70%;
+  	padding: 18px;
+  	font-size: 20px;
+  	letter-spacing: 10px;
+  	border-radius: 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.div5 {
+	position: relative;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 30%;
+  	width: 100%;
+  	text-align: center;
+	background-image: url("https://drive.google.com/uc?id=1As207sOrLeqSCyC1bnrl_jLKjEVwMqB5");
+}
+#kch {
+
+}
+#div6 {
+	width: 100%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 50px;
+	color: #111;
+
+	background-color: white;
+}.stuffs {
+	width: 30%; text-align: center;
+}
+.cntbtn {
+	width: 100%; float: right; border-radius: 3px; border-width: 2px; border-color: white; background-color: blue; font-size: 30px; padding: 10px; color: white; text-decoration: none;
+}
+.border2 {
+  color: #fff;
+  padding: 18px;
+  letter-spacing: 4px;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  
+}
+a {
+	text-decoration: none;
+	background-color: white;
+
+}
+.parallax1 {
+	background-image: url("https://drive.google.com/uc?id=1a496ZWSOH4QpF1b4mqO7QxIyq1tpSoqa");
+	min-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax2 {
+	background-image: url("https://drive.google.com/uc?id=1evFqeNTO5focHAQqL8rrmXXZtx6HYH4_");
+	min-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax3 {
+	background-image: url("https://drive.google.com/uc?id=1uZVYoAQe42oQRHzTjjo2ZQjjgmvl5SYT");
+	min-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax4 {
+	background-image: url("https://drive.google.com/uc?id=1rF4opTsfJUWP7DTUpld3awhK-S-hlgDv");
+	min-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.courses {
+	font-size: 20px;
+	color: black;
+	width: 80%;
+	text-align: left;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.probtn {
+	background: transparent;
+	border-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	font-size: 30px;
+	width: 80%;
+	padding: 30px;
+	color: black;
+}
+.photo {
+	font-size: 30px;
+	color: black;
+	width: 80%;
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.Writings {
+	font-size: 20px;
+	color: black;
+	width: 80%;
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+footer {
+	width: 100%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+	background-color: #f2f2f2;
+	color: black;
+
+}
+.intro{
+	border-width: 0px; width: 100%;
+	padding: 30px;
+}
+.div4 {
+	width: 100%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+	color: #111;
+	text-align: justify;
+	background-color: blue;
+}
+.expand {
+	width: 100%;
+	font-size: 30px;
+	height: auto;
+}
+.hid {
+	height: 0px;
+	opacity: 0;
+}
+.contact {
+	width: 50%; font-size: 20px; color: grey;
+}
